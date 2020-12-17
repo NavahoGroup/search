@@ -1,7 +1,8 @@
 {
   "QuickSearch": {
     "id":2,
-    "name": "typicode",
-    "result": [{"id":1,"best":"one"}, {"id":3, "test":"two"}]
+    "query": "попов",
+    "result": [{"type": "node", "id": 1, "name": "Попов", "parent_title": "Тайтл парент1", "link": "test"},{"type": "category", "id": 2, "name": "Попович", "parent_title": "Тайтл парент2", "link": "test2"},{"type": "category", "id": 3, "name": "Поповенко", "parent_title": "Тайтл парент3", "link": "test3"},{"type": "node", "id": 4, "name": "Поповчук", "parent_title": "Тайтл парент4", "link": "test4"}]
+    
   }
 }
