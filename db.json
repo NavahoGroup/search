@@ -1,3 +1,83 @@
 {
-    "QuickSearch": "test"
+  "QuickSearch": [
+    {
+      "data":
+      [{
+        "userId":1,
+        "userName":"Ivan",
+	"totalPurchases": 11,
+	"lastWeekPurchases": 9,
+	"totalSum": 100,
+	"lastWeekTotalSum": 40,
+	"userLink":"/link-to-user-page"
+      },
+      {
+        "userId":2,
+        "userName":"DIvan",
+	"totalPurchases": 11,
+	"lastWeekPurchases": 9,
+	"totalSum": 100,
+	"lastWeekTotalSum": 40,
+	"userLink":"/link-to-user-page"
+      },
+      {
+        "userId":3,
+        "userName":"Ivan",
+	"totalPurchases": 11,
+	"lastWeekPurchases": 9,
+	"totalSum": 100,
+	"lastWeekTotalSum": 40,
+	"userLink":"/link-to-user-page"
+      },
+      {
+        "userId":4,
+        "userName":"DIvan",
+	"totalPurchases": 11,
+	"lastWeekPurchases": 9,
+	"totalSum": 100,
+	"lastWeekTotalSum": 40,
+	"userLink":"/link-to-user-page"
+      },
+      {
+        "userId":5,
+        "userName":"Ivan",
+	"totalPurchases": 11,
+	"lastWeekPurchases": 9,
+	"totalSum": 100,
+	"lastWeekTotalSum": 40,
+	"userLink":"/link-to-user-page"
+      },
+      {
+        "userId":6,
+        "userName":"DIvan",
+	"totalPurchases": 11,
+	"lastWeekPurchases": 9,
+	"totalSum": 100,
+	"lastWeekTotalSum": 40,
+	"userLink":"/link-to-user-page"
+      },
+      {
+        "userId":7,
+        "userName":"Ivan",
+	"totalPurchases": 11,
+	"lastWeekPurchases": 9,
+	"totalSum": 100,
+	"lastWeekTotalSum": 40,
+	"userLink":"/link-to-user-page"
+      },
+      {
+        "userId":8,
+        "userName":"DIvan",
+	"totalPurchases": 11,
+	"lastWeekPurchases": 9,
+	"totalSum": 100,
+	"lastWeekTotalSum": 40,
+	"userLink":"/link-to-user-page"
+      }],
+      "totalPages":100
+    }
+  ],
+  "profile": {
+    "name": ["typicode"]
+  }
 }
