@@ -1,5 +1,5 @@
 {
-  "QuickSearch": [{"id":1, "name":"john"}],
+  "QuickSearch": {"id":1, "name":"john"},
   "profile": {
     "name": "typicode"
   }
