@@ -1,11 +1,4 @@
 {
-    QuickSearch: [
-    {query: 'попов'},
-    {result: [
-      {type: 'node', id: 1, name: 'Попов', parent_title: 'Тайтл парент1', link: 'test'},
-      {type: 'category', id: 5, name: 'Попович', parent_title: 'Тайтл парент2', link: 'test'},
-      {type: 'category', id: 8, name: 'Поповенко', parent_title: 'Тайтл парент3', link: 'test'},
-      {type: 'node', id: 3, name: 'Поповчук', parent_title: 'Тайтл парент4', link: 'test'}
-    ]}
-    ]
+    QuickSearch: [{query: 'попов'},
+    {result: 'result'}]
 }
